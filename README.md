@@ -1,5 +1,5 @@
 ### Date created
-Project created  March, 2020
+Project created  30th of March, 2020
 
 ### Project Title
 US Bikeshare Data
