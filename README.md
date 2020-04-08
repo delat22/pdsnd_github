@@ -1,15 +1,22 @@
 ### Date created
-Include the date you created this project and README file.
+Project created  March, 2020
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Calculated statistics and build an interactive environment for user from the US bikeshare data using python.
+
+The interactive section help:
+User to select city to read data from 
+User can filter through by month, day or both
+User can view raw data use in analysis
 
 ### Files used
-Include the files used
+chicago.csv
+new_york_city.csv
+washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+credit to udacity data science
 
