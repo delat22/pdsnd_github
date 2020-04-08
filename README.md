@@ -18,5 +18,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-credit to udacity data science
+Udacity (data science)
+Stackoverflow
 
